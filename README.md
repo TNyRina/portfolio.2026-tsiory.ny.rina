@@ -1,1 +1,1 @@
-[Link Text]([https://example.com](https://tnr-architectdev.netlify.app))
+[https://tnr-architectdev.netlify.app]
